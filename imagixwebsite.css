@@ -1,0 +1,363 @@
+body {
+    margin: 0;
+}
+.section1{
+    display:flex;
+
+}
+
+.aafiyaLogo{
+    height:120px;
+    width:380px;
+    /* margin-left:5rem; */
+}
+.mediacalTourismLogo{
+    height:100px;
+    width:100px;
+    /* margin-left:5rem; */
+    align-self: center;
+}
+.virualConsult{
+    /* height:50px; */
+    width:50px;
+    margin-right: 10px;
+    /* margin-left:4rem;
+    margin-top:1.5rem; */
+}
+section1.span {
+    display: block;
+    margin-left:2rem;
+    line-height: 1.9;
+   
+  }
+
+.consultText1{
+    color:grey;
+    font-size: 19px;
+    font-family: "Helvetica Neue";
+   /* margin-left:8rem;
+   margin-top:-4rem; */
+   
+}
+.consultText2{
+    color:black;
+    font-size: 24px;
+    font-family:"Helvetica Neue";
+   /* margin-left:8rem; */
+}
+.telephoneLogo{
+    height:80px;
+    /* width:7vh; */
+    margin-left:4rem;
+    margin-top:0.9rem;
+}
+.text3{
+    color:grey;
+    font-size: 19px;
+    font-family: "Helvetica Neue";
+   margin-left:9.5rem;
+   margin-top:-5.5rem;
+   
+}
+.text4{
+    color:black;
+    font-size: 24px;
+    font-family:"Helvetica Neue";
+   margin-left:9.5rem;
+}
+.emailLogo{
+    height:80px;
+    /* width:7vh; */
+    margin-left:4rem;
+    margin-top:0.9rem;
+}
+.text5{
+    color:grey;
+    font-size: 19px;
+    font-family: "Helvetica Neue";
+   margin-left:10rem;
+   margin-top:-5.5rem;
+   
+}
+.text6{
+    color:black;
+    font-size: 24px;
+    font-family:"Helvetica Neue";
+   margin-left:10rem;
+}
+.ukflag{
+    height:80px;
+    width:90px;
+    margin-left:4rem;
+    margin-top:0.9rem;
+}
+.dropdown{
+    height:20px;
+    width:20px;
+    background-color: rgb(57, 172, 238);
+    margin-left:10rem;
+    display:flex;
+    margin-top:-3.5rem;
+}
+.title{
+    /* position:absolute; */
+    background-color: rgb(26, 173, 231);
+    height:80px;
+    width:100%;
+    color:white;
+    display:flex;
+   justify-content: space-evenly;
+    align-items: center;
+    left:0;
+    font-size: 25px;
+    font-weight:semibold;
+}
+
+/* .searchBar{
+    position:absolute;
+    display:flex;
+    align-content: flex-end;
+    height:70px;
+    width:150px;
+    background-color:rgb(85, 85, 228);
+} */
+/* .kneePainImg{
+    background-size: cover;
+position:static;
+margin-left:-1rem;;
+margin-right:-2rem;
+height:40rem;
+width:100%;
+}
+.kneeTitle{
+    position:absolute;
+    display:flex;
+
+} */
+.kneecontainer{
+    position:relative;
+    /* margin:3.9rem -1rem; */
+    background-image: url('https://media.istockphoto.com/id/1324429108/vector/pain-in-the-knee-joint.jpg?s=612x612&w=0&k=20&c=Eo5lBGXx4xVG1HmKEH2pAk8-orrdY1FlUvLmSmI2p9U=');
+    background-size: cover;
+    min-height: 400px;
+}
+.kneeTitle{
+ font-size:1.2rem;
+    width: 50%;
+    color: white;
+   margin-left:4rem;
+  padding-top:3rem;
+
+}
+.kneeTitle1{
+font-size:3rem;
+margin-top: 1rem;
+margin-bottom: 10px;
+}
+.kneetitle2{
+width:70%;
+}
+.arrow{
+   color:red;
+}
+.Enquiry{
+height:50px;
+width:200px;
+background-color: rgb(50, 167, 221);
+color:white;
+font-size:20px;
+}
+
+.section5{
+    position:relative;
+    display:flex;
+    justify-content: space-evenly;
+    /* margin-top:-5.5rem; */
+    font-size:2rem;
+}
+hr{
+    border-top:0.5px  grey;
+    /* margin:-2.5rem -1.5rem; */
+}
+
+.container {
+    display: flex;
+flex-direction: row-reverse;
+padding: 53px 104px;
+  }
+  
+  .image2 {
+    /* height:550px; */
+    width:90%;
+    /* float: right; */
+    /* margin:8rem 7rem 5rem 5rem; */
+  }
+  
+  .text {
+    /* position:absolute; */
+    font-size: 20px;
+    padding-left: 6rem;
+    /* padding-top: 9rem; */
+    /* float: left; */
+  }
+  .text p{
+    /* display:flex;
+    width:43%; */
+    
+  }
+
+  .text1 h1 {
+    margin-top: 0;
+  }
+
+  .imgcontainer {
+    width: 50%;
+    text-align: right;
+  }
+
+  .container .text1 {
+    width: 50%;
+  }
+
+
+ hr.new1{
+    position:static;
+    border-top:2px dashed rgb(84, 164, 240);
+    /* margin: 10rem 7rem 4rem -1rem; */
+}
+.form{
+    /* position:absolute; */
+    height:650px;
+    /* width:450px; */
+    background-color: rgb(184, 176, 176);
+   align-self: center;
+   border-color: black;
+    border-radius:20px;
+    /* margin:48rem 88rem 15rem ; */
+}
+.name{
+    height:5rem;
+    width:23rem;
+    margin:1px 2rem 5px 2rem;
+    border-radius:10px;
+    padding-left:1rem;
+}
+.desciption{
+    height:8rem;
+    width:23rem;
+    margin:1px 2rem 5px 2rem;
+    border-radius:10px;
+    padding-left:1rem;
+}
+.form p{
+    width:70%;
+    margin-left:2rem;
+}
+.form h1{
+    color:rgb(31, 138, 209);
+    margin-left:2rem;
+}
+.form button{
+    width:24.5rem;
+    background-color:rgb(31, 138, 209) ;
+}
+.container1 {
+    display: flex;
+    padding: 0 104px;
+  }
+.text1{
+    /* position:absolute; */
+    font-size: 20px;
+    /* padding-left: 6rem; */
+    /* padding-top: 9rem; */
+    float: left;
+    /* margin:40rem 7rem 2rem 0px; */
+    color:black;
+    width: 95%;
+  }
+  .text1 p{
+    /* display:flex;
+    width:43%; */
+    
+  }
+
+ hr.new2{
+    position:static;
+    border-top:2px dashed rgb(84, 164, 240);
+    /* margin: 2rem 25rem 4rem -1rem; */
+    width: 96%;
+}
+
+.text2{
+    /* position:absolute; */
+    font-size: 20px;
+    padding-left: 6rem;
+    /* padding-top: 9rem; */
+    float: left;
+    /* margin:70rem 7rem 2rem 0px; */
+    color:black;
+  }
+  .text2 p{
+    /* display:flex;
+    width:43%; */
+    
+  }
+
+ hr.new3{
+    position:static;
+    border-top:2px dashed rgb(84, 164, 240);
+    /* margin: 2rem 25rem 4rem -1rem; */
+}
+.copyright{
+    /* position:absolute; */
+    color:white;
+    background-color: rgb(28, 116, 189);
+    height:30px;
+    width:100%;
+    display:flex;
+    justify-content: space-evenly;
+    /* padding-left:6rem; */
+    /* bottom:0px; */
+}
+/* .copyright1{
+    display:flex;
+    justify-content: space-around;
+    width:50%;
+} */
+
+/* .copyright2{
+    display:flex;
+    justify-content: space-evenly;
+   align-items: end;
+}  */
+
+.containerLast{
+    /* height:500px;
+    width:100%; */
+    background-color:rgb(43, 59, 54);
+    /* display: flex;
+   
+    justify-content: space-evenly; */
+    /* position: absolute; */
+    /* bottom:0px; */
+    color:white;
+}
+/* .one{
+    display:flex;
+    justify-content: space-evenly;
+} */
+ul{
+    list-style-type:none;
+   
+}
+ul.dashed > li:before {
+    
+    content: "-";
+    text-indent: 2rem;
+    line-height:2rem;
+    
+  }
+  .containerLast h4{
+    font-size:1rem;
+    
+  }
